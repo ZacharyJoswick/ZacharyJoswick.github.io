@@ -14,4 +14,4 @@ Realistically, it means that im to blame whenever something goes wrong on a proj
 
 ### Contact me
 
-[zjoswick@gamil.com](mailto:zjoswick@gmail.com)
+[zjoswick@gmail.com](mailto:zjoswick@gmail.com)
