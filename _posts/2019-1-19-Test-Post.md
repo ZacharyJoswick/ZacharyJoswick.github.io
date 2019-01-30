@@ -4,7 +4,6 @@ title: A test post
 ---
 
 ## Testing
-
 This is an example post on my personal website. 
 
 
